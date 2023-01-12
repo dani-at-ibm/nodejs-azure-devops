@@ -1,0 +1,18 @@
+{
+  "name": "node-js-app",
+  "version": "1.0.0",
+  "description": "Sample Node.JS application for Azure DevOps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "daniel fesalbon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
